@@ -1,4 +1,6 @@
 ### Hi there 👋
+ 🌱 I’m currently learning computer science at the university
+ 👯 I’m looking to collaborate on projects and learn
 
 <!--
 **xcesarg/xcesarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
